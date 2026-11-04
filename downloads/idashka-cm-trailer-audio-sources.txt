@@ -1,0 +1,6 @@
+music.mp3: https://github.com/Source2Sounds/dota2/blob/HEAD/sounds/music/valve_dota_001/music/battle_01.mp3
+cm_spawn.mp3: https://github.com/Source2Sounds/dota2/blob/HEAD/sounds/vo/crystalmaiden/cm_spawn_01.mp3
+cm_thanks.mp3: https://github.com/Source2Sounds/dota2/blob/HEAD/sounds/vo/crystalmaiden/cm_thanks_01.mp3
+pudge_miss.mp3: https://github.com/Source2Sounds/dota2/blob/HEAD/sounds/vo/pudge/pud_ability_hook_miss_01.mp3
+sf_laugh.mp3: https://github.com/Source2Sounds/dota2/blob/HEAD/sounds/vo/nevermore/nev_laugh_01.mp3
+Game audio: Dota 2 / Valve. English original voice recordings, not synthesized.
